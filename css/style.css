@@ -320,7 +320,7 @@ h2 {
         display: block;
         margin-left: 5%;
         margin-right: auto;
-        margin-top: -25%;
+        margin-top: -35%;
     }
 
     .row img {
@@ -401,12 +401,12 @@ h2 {
     }
 
     .one {
-        width: 600px;
+        width: 550px;
         height: 500px;
     }
 
     .two {
-        width: 600px;
+        width: 550px;
         height: 500px;
     }
 }
@@ -469,8 +469,8 @@ label {
     #contact {
         background-color: #ffff;
         margin-top: 5%;
-        margin-right: auto;
-        margin-left: auto;
+
+        width: 100%;
     }
     .msg{
         display: block;
@@ -480,18 +480,33 @@ label {
         margin-right: auto;
         margin-left: 5%;
     }
+    .input{
+        width: 350px;
+        height: 50px;
+        background-color: #4753617a;
+        border: none;
+        border-radius: 5px;
+    }
+    .text{
+        background-color: #4753617a;
+        border: none;
+        border-radius: 5px;
+        width: 450px;
+    }
     .form h2{
         text-align: center;
     }
     .fotoo{
-        justify-items: center;
+        margin-right: auto;
+        margin-left: auto;
     }
     .fotoo img {
         object-fit: cover;
         height: 500px;
-        width: 600px;
+        width: 550px;
         border-radius: 6px;
         margin-left: 8%;
+        
         
     }
 
