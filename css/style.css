@@ -380,6 +380,14 @@ h2 {
 }
 
 @media (max-width: 952px) {
+    #gallery {
+        background: #ffff;
+        margin-top: 5%;
+        margin-right: auto;
+        margin-left: auto;
+        height: 530vh;
+        
+    }
     .gal-photos {
         display: block;
         margin-right: 10%;
