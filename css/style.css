@@ -455,6 +455,16 @@ label {
     border: none;
     border-radius: 5px;
 }
+.btn{
+    background-color: #161E11;
+    margin-left: 5%;
+    color: #ffff;
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+}
 @media (max-width: 952px){
     #contact {
         background-color: #ffff;
@@ -483,5 +493,17 @@ label {
         border-radius: 6px;
         margin-left: 8%;
         
+    }
+
+    .btn{
+        background-color: #161E11;
+        margin-left: 5%;
+        color: #ffff;
+        width: 150px;
+        height: 50px;
+        border: none;
+        font-size: 20px;
+        border-radius: 20px;
+        margin-bottom: 5%;
     }
 }
