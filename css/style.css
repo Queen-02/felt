@@ -202,7 +202,7 @@ about section
 #about {
     background-color: #ffff;
     margin-top: 5%;
-    height: 115vh;
+    height: 140vh;
 }
 
 h1 {
@@ -221,22 +221,22 @@ h2 {
 }
 
 .who {
-    margin-left: auto;
+    margin-left: 35px;
     /* margin-right: auto; */
     margin-top: 6%;
 }
 
 .who p {
     text-align: start;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 60px;
 }
 
 
 .row {
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .row img {
@@ -342,6 +342,8 @@ h2 {
     margin-top: 5%;
     margin-right: auto;
     margin-left: auto;
+    height: 175vh;
+    
 }
 
 .gal-photos {
@@ -369,12 +371,12 @@ h2 {
 
 .one {
     height: 450px;
-    width: 600px;
+    width: 530px;
 }
 
 .two {
     height: 450px;
-    width: 390px;
+    width: 360px;
 }
 
 @media (max-width: 952px) {
@@ -418,7 +420,6 @@ h2 {
     background-color: #ffff;
     margin-top: 5%;
     margin-right: auto;
-    margin-left: auto;
 }
 
 .msg {
